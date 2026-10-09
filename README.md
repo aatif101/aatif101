@@ -2,7 +2,7 @@
 
 <p align="center">
   CS senior at the University of South Florida · December 2026<br>
-  I build web apps and work on document extraction and retrieval.
+  I’ve learned a lot shipping projects solo, but I've hit the ceiling of what I can learn building alone. I'm looking to work with a team where I'm working on someone else's hard problem next to engineers who are better than me.
 </p>
 
 <p align="center">
