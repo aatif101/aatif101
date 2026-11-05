@@ -14,7 +14,7 @@
 ### Selected work
 
 **[Easy A](https://easya.fyi)** · [Code](https://github.com/aatif101/easy-A)  
-Course search for USF Tampa students. Compare instructors using historical grades, check the latest observed seats, and find classes that meet GenEd requirements. Launched for spring registration: 1,000+ visits in the first 3 hours.
+Course search for USF Tampa students. Compare instructors using historical grades, check the latest observed seats, and find classes that meet GenEd requirements. Launched for spring registration: 2,400+ page views in the first month, peaking at 500+ in a single day.
 
 **[Microsoft PyRIT](https://github.com/microsoft/PyRIT/pull/3471)** · open-source fix  
 Found that PyRIT's `MarkdownInjectionScorer` missed two zero-click exfiltration paths (shortcut-reference images and raw HTML `<img>`). Filed the [issue](https://github.com/microsoft/PyRIT/issues/3343) with a repro, wrote the fix and tests, got it merged.
